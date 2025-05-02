@@ -2,7 +2,7 @@
 
 <!-- **AdrianIchiro/AdrianIchiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![Adrian Fahren](https://github.com/AdrianIchiro/AdrianIchiro/blob/main/img/border.png)
+![Adrian Fahren](https://raw.githubusercontent.com/AdrianIchiro/AdrianIchiro/main/img/border.png)
 
 - 🔭 I’m currently working on [**solvethink.id**](https://www.solvethink.id/)
 - 🌱 I’m currently learning **Python**
