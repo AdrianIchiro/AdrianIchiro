@@ -30,7 +30,9 @@
     <a href="https://steamcommunity.com/profiles/76561199215297888/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
 
-![Anime Banner](https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUOOnrjuH3cT6u_9TP_2jIH9xEaLVtDyeVxhgEV5fHfC11Nya3vhzkr5TxjaA8G_s-w)
+<div align="center">
+  <img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUOOnrjuH3cT6u_9TP_2jIH9xEaLVtDyeVxhgEV5fHfC11Nya3vhzkr5TxjaA8G_s-w" width="600" />
+</div>
 
 
 <!-- - 👯 I’m looking to collaborate on ...
