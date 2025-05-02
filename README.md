@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi Human 👋, I'm Adrian Fahren Setiawan
 
 <!-- **AdrianIchiro/AdrianIchiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+![Adrian Fahren](img/border.png)
 
 - 🔭 I’m currently working on [**solvethink.id**](https://www.solvethink.id/)
 - 🌱 I’m currently learning **Python**
