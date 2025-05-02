@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **solvethink.id**
+- 🔭 I’m currently working on [**solvethink.id**](https://www.solvethink.id/)
 - 🌱 I’m currently learning **Python**
 - 🎓I'm study in **Telkom University**
 
