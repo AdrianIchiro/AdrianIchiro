@@ -4,7 +4,7 @@
 
 ![Adrian Fahren](https://raw.githubusercontent.com/AdrianIchiro/AdrianIchiro/main/img/border.png)
 
-- 🔭 I’m currently working on [**solvethink.id**](https://www.solvethink.id/)
+- 🔭 I’m currently working on [**solvethink.id**](https://www.solvethink.id/) and [**caatis.telkomuniversity.ac.id**](https://caatis.telkomuniversity.ac.id/)
 - 🌱 I’m currently learning **Python**
 - 🎓I'm study in **Telkom University**
 
